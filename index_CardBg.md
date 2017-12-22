@@ -1257,3 +1257,9 @@
 [bg_300464_［冬空プレシャス］片桐早苗＋_[SR+]_01.png](CardBg/Passion/bg_300464_［冬空プレシャス］片桐早苗＋_[SR+]_01.png)<br>
 [bg_320225_［生存本能ヴァルキュリア］高森藍子_[SR].png](CardBg/Passion/bg_320225_［生存本能ヴァルキュリア］高森藍子_[SR].png)<br>
 [bg_320226_［生存本能ヴァルキュリア］高森藍子＋_[SR+].png](CardBg/Passion/bg_320226_［生存本能ヴァルキュリア］高森藍子＋_[SR+].png)<br>
+[bg_100477_［スウィート・ロワイヤル］榊原里美_[SR].png](CardBg/Cute/bg_100477_［スウィート・ロワイヤル］榊原里美_[SR].png)<br>
+[bg_100478_［スウィート・ロワイヤル］榊原里美＋_[SR+].png](CardBg/Cute/bg_100478_［スウィート・ロワイヤル］榊原里美＋_[SR+].png)<br>
+[bg_300465_［桃色怒髪天］向井拓海_[SSR].png](CardBg/Passion/bg_300465_［桃色怒髪天］向井拓海_[SSR].png)<br>
+[bg_300465_［桃色怒髪天］向井拓海_[SSR]_01.png](CardBg/Passion/bg_300465_［桃色怒髪天］向井拓海_[SSR]_01.png)<br>
+[bg_300466_［桃色怒髪天］向井拓海＋_[SSR+].png](CardBg/Passion/bg_300466_［桃色怒髪天］向井拓海＋_[SSR+].png)<br>
+[bg_300466_［桃色怒髪天］向井拓海＋_[SSR+]_01.png](CardBg/Passion/bg_300466_［桃色怒髪天］向井拓海＋_[SSR+]_01.png)<br>

@@ -466,3 +466,5 @@
 [gacha_300461_［冬空プレシャス］姫川友紀_[SR]_02_title.png](Gacha/title/Passion/gacha_300461_［冬空プレシャス］姫川友紀_[SR]_02_title.png)<br>
 [gacha_300463_［冬空プレシャス］片桐早苗_[SR]_02_title.png](Gacha/title/Passion/gacha_300463_［冬空プレシャス］片桐早苗_[SR]_02_title.png)<br>
 [gacha_320225_［生存本能ヴァルキュリア］高森藍子_[SR]_02_title.png](Gacha/title/Passion/gacha_320225_［生存本能ヴァルキュリア］高森藍子_[SR]_02_title.png)<br>
+[gacha_100477_［スウィート・ロワイヤル］榊原里美_[SR]_02_title.png](Gacha/title/Cute/gacha_100477_［スウィート・ロワイヤル］榊原里美_[SR]_02_title.png)<br>
+[gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_title.png](Gacha/title/Passion/gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_title.png)<br>

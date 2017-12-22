@@ -148,3 +148,4 @@
 [gacha_300447_［トリック☆ジョーカー］堀裕子_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300447_［トリック☆ジョーカー］堀裕子_[SSR]_03_sign.png)<br>
 [gacha_300453_［ロリポップ・ハニー］大槻唯_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300453_［ロリポップ・ハニー］大槻唯_[SSR]_03_sign.png)<br>
 [gacha_300457_［カレイドスノー］本田未央_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300457_［カレイドスノー］本田未央_[SSR]_03_sign.png)<br>
+[gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_sign.png)<br>
