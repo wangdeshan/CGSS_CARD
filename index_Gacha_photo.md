@@ -651,3 +651,5 @@
 [gacha_320225_［生存本能ヴァルキュリア］高森藍子_[SR]_02_photo.png](Gacha/photo/Passion/gacha_320225_［生存本能ヴァルキュリア］高森藍子_[SR]_02_photo.png)<br>
 [gacha_100477_［スウィート・ロワイヤル］榊原里美_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100477_［スウィート・ロワイヤル］榊原里美_[SR]_02_photo.png)<br>
 [gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_photo_l.png](Gacha/photo/Passion/gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_photo_l.png)<br>
+[gacha_100479_［おーる・ふぉー・ふぁん］双葉杏_[SSR]_03_photo_l.png](Gacha/photo/Cute/gacha_100479_［おーる・ふぉー・ふぁん］双葉杏_[SSR]_03_photo_l.png)<br>
+[gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_photo_l.png](Gacha/photo/Passion/gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_photo_l.png)<br>

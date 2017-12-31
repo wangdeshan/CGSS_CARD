@@ -149,3 +149,5 @@
 [gacha_300453_［ロリポップ・ハニー］大槻唯_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300453_［ロリポップ・ハニー］大槻唯_[SSR]_03_sign.png)<br>
 [gacha_300457_［カレイドスノー］本田未央_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300457_［カレイドスノー］本田未央_[SSR]_03_sign.png)<br>
 [gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_sign.png)<br>
+[gacha_100479_［おーる・ふぉー・ふぁん］双葉杏_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100479_［おーる・ふぉー・ふぁん］双葉杏_[SSR]_03_sign.png)<br>
+[gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_sign.png)<br>
