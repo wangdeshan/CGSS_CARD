@@ -1271,3 +1271,11 @@
 [bg_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_01.png](CardBg/Passion/bg_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_01.png)<br>
 [bg_300468_［はぴはぴ☆わんだーらんど］諸星きらり＋_[SSR+].png](CardBg/Passion/bg_300468_［はぴはぴ☆わんだーらんど］諸星きらり＋_[SSR+].png)<br>
 [bg_300468_［はぴはぴ☆わんだーらんど］諸星きらり＋_[SSR+]_01.png](CardBg/Passion/bg_300468_［はぴはぴ☆わんだーらんど］諸星きらり＋_[SSR+]_01.png)<br>
+[bg_200479_［Happy New Yeah ! ］渋谷凛_[SR].png](CardBg/Cool/bg_200479_［Happy%20New%20Yeah%20!%20］渋谷凛_[SR].png)<br>
+[bg_200479_［Happy New Yeah ! ］渋谷凛_[SR]_01.png](CardBg/Cool/bg_200479_［Happy%20New%20Yeah%20!%20］渋谷凛_[SR]_01.png)<br>
+[bg_200480_［Happy New Yeah ! ］渋谷凛＋_[SR+].png](CardBg/Cool/bg_200480_［Happy%20New%20Yeah%20!%20］渋谷凛＋_[SR+].png)<br>
+[bg_200480_［Happy New Yeah ! ］渋谷凛＋_[SR+]_01.png](CardBg/Cool/bg_200480_［Happy%20New%20Yeah%20!%20］渋谷凛＋_[SR+]_01.png)<br>
+[bg_300469_［Happy New Yeah ! ］佐藤心_[SR].png](CardBg/Passion/bg_300469_［Happy%20New%20Yeah%20!%20］佐藤心_[SR].png)<br>
+[bg_300469_［Happy New Yeah ! ］佐藤心_[SR]_01.png](CardBg/Passion/bg_300469_［Happy%20New%20Yeah%20!%20］佐藤心_[SR]_01.png)<br>
+[bg_300470_［Happy New Yeah ! ］佐藤心＋_[SR+].png](CardBg/Passion/bg_300470_［Happy%20New%20Yeah%20!%20］佐藤心＋_[SR+].png)<br>
+[bg_300470_［Happy New Yeah ! ］佐藤心＋_[SR+]_01.png](CardBg/Passion/bg_300470_［Happy%20New%20Yeah%20!%20］佐藤心＋_[SR+]_01.png)<br>

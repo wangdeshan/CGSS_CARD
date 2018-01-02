@@ -653,3 +653,5 @@
 [gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_photo_l.png](Gacha/photo/Passion/gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_photo_l.png)<br>
 [gacha_100479_［おーる・ふぉー・ふぁん］双葉杏_[SSR]_03_photo_l.png](Gacha/photo/Cute/gacha_100479_［おーる・ふぉー・ふぁん］双葉杏_[SSR]_03_photo_l.png)<br>
 [gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_photo_l.png](Gacha/photo/Passion/gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_photo_l.png)<br>
+[gacha_200479_［Happy New Yeah ! ］渋谷凛_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200479_［Happy%20New%20Yeah%20!%20］渋谷凛_[SR]_02_photo.png)<br>
+[gacha_300469_［Happy New Yeah ! ］佐藤心_[SR]_02_photo.png](Gacha/photo/Passion/gacha_300469_［Happy%20New%20Yeah%20!%20］佐藤心_[SR]_02_photo.png)<br>
