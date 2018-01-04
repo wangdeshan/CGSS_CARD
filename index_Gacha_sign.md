@@ -151,3 +151,5 @@
 [gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300465_［桃色怒髪天］向井拓海_[SSR]_03_sign.png)<br>
 [gacha_100479_［おーる・ふぉー・ふぁん］双葉杏_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100479_［おーる・ふぉー・ふぁん］双葉杏_[SSR]_03_sign.png)<br>
 [gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_sign.png)<br>
+[gacha_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR]_03_sign.png](Gacha/sign/Cool/gacha_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR]_03_sign.png)<br>
+[gacha_100481_［新春の彩り］三村かな子_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100481_［新春の彩り］三村かな子_[SSR]_03_sign.png)<br>

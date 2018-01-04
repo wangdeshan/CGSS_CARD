@@ -1279,3 +1279,15 @@
 [bg_300469_［Happy New Yeah ! ］佐藤心_[SR]_01.png](CardBg/Passion/bg_300469_［Happy%20New%20Yeah%20!%20］佐藤心_[SR]_01.png)<br>
 [bg_300470_［Happy New Yeah ! ］佐藤心＋_[SR+].png](CardBg/Passion/bg_300470_［Happy%20New%20Yeah%20!%20］佐藤心＋_[SR+].png)<br>
 [bg_300470_［Happy New Yeah ! ］佐藤心＋_[SR+]_01.png](CardBg/Passion/bg_300470_［Happy%20New%20Yeah%20!%20］佐藤心＋_[SR+]_01.png)<br>
+[bg_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR].png](CardBg/Cool/bg_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR].png)<br>
+[bg_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR]_01.png](CardBg/Cool/bg_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR]_01.png)<br>
+[bg_200482_［福を呼ぶ舞姫］鷹富士茄子＋_[SSR+].png](CardBg/Cool/bg_200482_［福を呼ぶ舞姫］鷹富士茄子＋_[SSR+].png)<br>
+[bg_200482_［福を呼ぶ舞姫］鷹富士茄子＋_[SSR+]_01.png](CardBg/Cool/bg_200482_［福を呼ぶ舞姫］鷹富士茄子＋_[SSR+]_01.png)<br>
+[bg_100481_［新春の彩り］三村かな子_[SSR].png](CardBg/Cute/bg_100481_［新春の彩り］三村かな子_[SSR].png)<br>
+[bg_100481_［新春の彩り］三村かな子_[SSR]_01.png](CardBg/Cute/bg_100481_［新春の彩り］三村かな子_[SSR]_01.png)<br>
+[bg_100482_［新春の彩り］三村かな子＋_[SSR+].png](CardBg/Cute/bg_100482_［新春の彩り］三村かな子＋_[SSR+].png)<br>
+[bg_100482_［新春の彩り］三村かな子＋_[SSR+]_01.png](CardBg/Cute/bg_100482_［新春の彩り］三村かな子＋_[SSR+]_01.png)<br>
+[bg_100483_［華傘の芸達者］乙倉悠貴_[SR].png](CardBg/Cute/bg_100483_［華傘の芸達者］乙倉悠貴_[SR].png)<br>
+[bg_100484_［華傘の芸達者］乙倉悠貴＋_[SR+].png](CardBg/Cute/bg_100484_［華傘の芸達者］乙倉悠貴＋_[SR+].png)<br>
+[bg_300471_［にゅーいやー］市原仁奈_[SR].png](CardBg/Passion/bg_300471_［にゅーいやー］市原仁奈_[SR].png)<br>
+[bg_300472_［にゅーいやー］市原仁奈＋_[SR+].png](CardBg/Passion/bg_300472_［にゅーいやー］市原仁奈＋_[SR+].png)<br>

@@ -472,3 +472,7 @@
 [gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_title.png](Gacha/title/Passion/gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_title.png)<br>
 [gacha_200479_［Happy New Yeah ! ］渋谷凛_[SR]_02_title.png](Gacha/title/Cool/gacha_200479_［Happy%20New%20Yeah%20!%20］渋谷凛_[SR]_02_title.png)<br>
 [gacha_300469_［Happy New Yeah ! ］佐藤心_[SR]_02_title.png](Gacha/title/Passion/gacha_300469_［Happy%20New%20Yeah%20!%20］佐藤心_[SR]_02_title.png)<br>
+[gacha_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR]_03_title.png](Gacha/title/Cool/gacha_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR]_03_title.png)<br>
+[gacha_100481_［新春の彩り］三村かな子_[SSR]_03_title.png](Gacha/title/Cute/gacha_100481_［新春の彩り］三村かな子_[SSR]_03_title.png)<br>
+[gacha_100483_［華傘の芸達者］乙倉悠貴_[SR]_02_title.png](Gacha/title/Cute/gacha_100483_［華傘の芸達者］乙倉悠貴_[SR]_02_title.png)<br>
+[gacha_300471_［にゅーいやー］市原仁奈_[SR]_02_title.png](Gacha/title/Passion/gacha_300471_［にゅーいやー］市原仁奈_[SR]_02_title.png)<br>
