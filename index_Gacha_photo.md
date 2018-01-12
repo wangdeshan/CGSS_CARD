@@ -663,3 +663,4 @@
 [gacha_200487_［美に入り彩を穿つ］塩見周子_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200487_［美に入り彩を穿つ］塩見周子_[SR]_02_photo.png)<br>
 [gacha_100487_［美に入り彩を穿つ］小早川紗枝_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100487_［美に入り彩を穿つ］小早川紗枝_[SR]_02_photo.png)<br>
 [gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_photo_l.png](Gacha/photo/Passion/gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_photo_l.png)<br>
+[gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_photo_l[1].png](Gacha/photo/Passion/gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_photo_l[1].png)<br>
