@@ -153,3 +153,4 @@
 [gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300467_［はぴはぴ☆わんだーらんど］諸星きらり_[SSR]_03_sign.png)<br>
 [gacha_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR]_03_sign.png](Gacha/sign/Cool/gacha_200481_［福を呼ぶ舞姫］鷹富士茄子_[SSR]_03_sign.png)<br>
 [gacha_100481_［新春の彩り］三村かな子_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100481_［新春の彩り］三村かな子_[SSR]_03_sign.png)<br>
+[gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_sign.png)<br>

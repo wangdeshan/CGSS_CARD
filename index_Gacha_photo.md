@@ -659,3 +659,7 @@
 [gacha_100481_［新春の彩り］三村かな子_[SSR]_03_photo_l.png](Gacha/photo/Cute/gacha_100481_［新春の彩り］三村かな子_[SSR]_03_photo_l.png)<br>
 [gacha_100483_［華傘の芸達者］乙倉悠貴_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100483_［華傘の芸達者］乙倉悠貴_[SR]_02_photo.png)<br>
 [gacha_300471_［にゅーいやー］市原仁奈_[SR]_02_photo.png](Gacha/photo/Passion/gacha_300471_［にゅーいやー］市原仁奈_[SR]_02_photo.png)<br>
+[gacha_200483_［魅惑のカクテルレディ］高橋礼子_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200483_［魅惑のカクテルレディ］高橋礼子_[SR]_02_photo.png)<br>
+[gacha_200487_［美に入り彩を穿つ］塩見周子_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200487_［美に入り彩を穿つ］塩見周子_[SR]_02_photo.png)<br>
+[gacha_100487_［美に入り彩を穿つ］小早川紗枝_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100487_［美に入り彩を穿つ］小早川紗枝_[SR]_02_photo.png)<br>
+[gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_photo_l.png](Gacha/photo/Passion/gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_photo_l.png)<br>
