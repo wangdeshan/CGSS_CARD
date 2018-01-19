@@ -480,3 +480,5 @@
 [gacha_200487_［美に入り彩を穿つ］塩見周子_[SR]_02_title.png](Gacha/title/Cool/gacha_200487_［美に入り彩を穿つ］塩見周子_[SR]_02_title.png)<br>
 [gacha_100487_［美に入り彩を穿つ］小早川紗枝_[SR]_02_title.png](Gacha/title/Cute/gacha_100487_［美に入り彩を穿つ］小早川紗枝_[SR]_02_title.png)<br>
 [gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_title.png](Gacha/title/Passion/gacha_300473_［クイーン・オブ・クイーン］財前時子_[SSR]_03_title.png)<br>
+[gacha_100485_［ドリーミン☆ウサミン］安部菜々_[SSR]_03_title.png](Gacha/title/Cute/gacha_100485_［ドリーミン☆ウサミン］安部菜々_[SSR]_03_title.png)<br>
+[gacha_300477_［超☆スーパーモデル］冴島清美_[SR]_02_title.png](Gacha/title/Passion/gacha_300477_［超☆スーパーモデル］冴島清美_[SR]_02_title.png)<br>
