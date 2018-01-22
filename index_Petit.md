@@ -1365,3 +1365,7 @@
 [petit_100486_［ドリーミン☆ウサミン］安部菜々＋_[SSR+].png](Petit/Cute/petit_100486_［ドリーミン☆ウサミン］安部菜々＋_[SSR+].png)<br>
 [petit_300477_［超☆スーパーモデル］冴島清美_[SR].png](Petit/Passion/petit_300477_［超☆スーパーモデル］冴島清美_[SR].png)<br>
 [petit_300478_［超☆スーパーモデル］冴島清美＋_[SR+].png](Petit/Passion/petit_300478_［超☆スーパーモデル］冴島清美＋_[SR+].png)<br>
+[petit_100503_［ホワイトテイル］遊佐こずえ_[SR].png](Petit/Cute/petit_100503_［ホワイトテイル］遊佐こずえ_[SR].png)<br>
+[petit_100504_［ホワイトテイル］遊佐こずえ＋_[SR+].png](Petit/Cute/petit_100504_［ホワイトテイル］遊佐こずえ＋_[SR+].png)<br>
+[petit_300475_［手鞠の芸達者］首藤葵_[SR].png](Petit/Passion/petit_300475_［手鞠の芸達者］首藤葵_[SR].png)<br>
+[petit_300476_［手鞠の芸達者］首藤葵＋_[SR+].png](Petit/Passion/petit_300476_［手鞠の芸達者］首藤葵＋_[SR+].png)<br>
