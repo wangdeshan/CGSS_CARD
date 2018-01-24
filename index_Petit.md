@@ -1369,3 +1369,7 @@
 [petit_100504_［ホワイトテイル］遊佐こずえ＋_[SR+].png](Petit/Cute/petit_100504_［ホワイトテイル］遊佐こずえ＋_[SR+].png)<br>
 [petit_300475_［手鞠の芸達者］首藤葵_[SR].png](Petit/Passion/petit_300475_［手鞠の芸達者］首藤葵_[SR].png)<br>
 [petit_300476_［手鞠の芸達者］首藤葵＋_[SR+].png](Petit/Passion/petit_300476_［手鞠の芸達者］首藤葵＋_[SR+].png)<br>
+[petit_200489_［心躍るアドベンチャー］氏家むつみ_[SSR].png](Petit/Cool/petit_200489_［心躍るアドベンチャー］氏家むつみ_[SSR].png)<br>
+[petit_200490_［心躍るアドベンチャー］氏家むつみ＋_[SSR+].png](Petit/Cool/petit_200490_［心躍るアドベンチャー］氏家むつみ＋_[SSR+].png)<br>
+[petit_100489_［モグモグオータム］大原みちる_[SR].png](Petit/Cute/petit_100489_［モグモグオータム］大原みちる_[SR].png)<br>
+[petit_100490_［モグモグオータム］大原みちる＋_[SR+].png](Petit/Cute/petit_100490_［モグモグオータム］大原みちる＋_[SR+].png)<br>

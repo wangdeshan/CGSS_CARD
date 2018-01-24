@@ -668,3 +668,5 @@
 [gacha_300477_［超☆スーパーモデル］冴島清美_[SR]_02_photo.png](Gacha/photo/Passion/gacha_300477_［超☆スーパーモデル］冴島清美_[SR]_02_photo.png)<br>
 [gacha_100503_［ホワイトテイル］遊佐こずえ_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100503_［ホワイトテイル］遊佐こずえ_[SR]_02_photo.png)<br>
 [gacha_300475_［手鞠の芸達者］首藤葵_[SR]_02_photo.png](Gacha/photo/Passion/gacha_300475_［手鞠の芸達者］首藤葵_[SR]_02_photo.png)<br>
+[gacha_200489_［心躍るアドベンチャー］氏家むつみ_[SSR]_03_photo_l.png](Gacha/photo/Cool/gacha_200489_［心躍るアドベンチャー］氏家むつみ_[SSR]_03_photo_l.png)<br>
+[gacha_100489_［モグモグオータム］大原みちる_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100489_［モグモグオータム］大原みちる_[SR]_02_photo.png)<br>
