@@ -1323,3 +1323,19 @@
 [bg_200490_［心躍るアドベンチャー］氏家むつみ＋_[SSR+]_01.png](CardBg/Cool/bg_200490_［心躍るアドベンチャー］氏家むつみ＋_[SSR+]_01.png)<br>
 [bg_100489_［モグモグオータム］大原みちる_[SR].png](CardBg/Cute/bg_100489_［モグモグオータム］大原みちる_[SR].png)<br>
 [bg_100490_［モグモグオータム］大原みちる＋_[SR+].png](CardBg/Cute/bg_100490_［モグモグオータム］大原みちる＋_[SR+].png)<br>
+[bg_200491_［ピュアバレンタイン］渋谷凛_[SR].png](CardBg/Cool/bg_200491_［ピュアバレンタイン］渋谷凛_[SR].png)<br>
+[bg_200492_［ピュアバレンタイン］渋谷凛＋_[SR+].png](CardBg/Cool/bg_200492_［ピュアバレンタイン］渋谷凛＋_[SR+].png)<br>
+[bg_200493_［always］荒木比奈_[SR].png](CardBg/Cool/bg_200493_［always］荒木比奈_[SR].png)<br>
+[bg_200494_［always］荒木比奈＋_[SR+].png](CardBg/Cool/bg_200494_［always］荒木比奈＋_[SR+].png)<br>
+[bg_100491_［ビタースイート・タイム］小日向美穂_[SSR].png](CardBg/Cute/bg_100491_［ビタースイート・タイム］小日向美穂_[SSR].png)<br>
+[bg_100491_［ビタースイート・タイム］小日向美穂_[SSR]_01.png](CardBg/Cute/bg_100491_［ビタースイート・タイム］小日向美穂_[SSR]_01.png)<br>
+[bg_100492_［ビタースイート・タイム］小日向美穂＋_[SSR+].png](CardBg/Cute/bg_100492_［ビタースイート・タイム］小日向美穂＋_[SSR+].png)<br>
+[bg_100492_［ビタースイート・タイム］小日向美穂＋_[SSR+]_01.png](CardBg/Cute/bg_100492_［ビタースイート・タイム］小日向美穂＋_[SSR+]_01.png)<br>
+[bg_300479_［ドキワク ! ユズレシピ］喜多見柚_[SSR].png](CardBg/Passion/bg_300479_［ドキワク%20!%20ユズレシピ］喜多見柚_[SSR].png)<br>
+[bg_300479_［ドキワク ! ユズレシピ］喜多見柚_[SSR]_01.png](CardBg/Passion/bg_300479_［ドキワク%20!%20ユズレシピ］喜多見柚_[SSR]_01.png)<br>
+[bg_300480_［ドキワク ! ユズレシピ］喜多見柚＋_[SSR+].png](CardBg/Passion/bg_300480_［ドキワク%20!%20ユズレシピ］喜多見柚＋_[SSR+].png)<br>
+[bg_300480_［ドキワク ! ユズレシピ］喜多見柚＋_[SSR+]_01.png](CardBg/Passion/bg_300480_［ドキワク%20!%20ユズレシピ］喜多見柚＋_[SSR+]_01.png)<br>
+[bg_300481_［ビターバレンタイン］衛藤美紗希_[SR].png](CardBg/Passion/bg_300481_［ビターバレンタイン］衛藤美紗希_[SR].png)<br>
+[bg_300482_［ビターバレンタイン］衛藤美紗希＋_[SR+].png](CardBg/Passion/bg_300482_［ビターバレンタイン］衛藤美紗希＋_[SR+].png)<br>
+[bg_300483_［always］村上巴_[SR].png](CardBg/Passion/bg_300483_［always］村上巴_[SR].png)<br>
+[bg_300484_［always］村上巴＋_[SR+].png](CardBg/Passion/bg_300484_［always］村上巴＋_[SR+].png)<br>

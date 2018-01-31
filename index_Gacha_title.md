@@ -486,3 +486,9 @@
 [gacha_300475_［手鞠の芸達者］首藤葵_[SR]_02_title.png](Gacha/title/Passion/gacha_300475_［手鞠の芸達者］首藤葵_[SR]_02_title.png)<br>
 [gacha_200489_［心躍るアドベンチャー］氏家むつみ_[SSR]_03_title.png](Gacha/title/Cool/gacha_200489_［心躍るアドベンチャー］氏家むつみ_[SSR]_03_title.png)<br>
 [gacha_100489_［モグモグオータム］大原みちる_[SR]_02_title.png](Gacha/title/Cute/gacha_100489_［モグモグオータム］大原みちる_[SR]_02_title.png)<br>
+[gacha_200491_［ピュアバレンタイン］渋谷凛_[SR]_02_title.png](Gacha/title/Cool/gacha_200491_［ピュアバレンタイン］渋谷凛_[SR]_02_title.png)<br>
+[gacha_200493_［always］荒木比奈_[SR]_02_title.png](Gacha/title/Cool/gacha_200493_［always］荒木比奈_[SR]_02_title.png)<br>
+[gacha_100491_［ビタースイート・タイム］小日向美穂_[SSR]_03_title.png](Gacha/title/Cute/gacha_100491_［ビタースイート・タイム］小日向美穂_[SSR]_03_title.png)<br>
+[gacha_300479_［ドキワク ! ユズレシピ］喜多見柚_[SSR]_03_title.png](Gacha/title/Passion/gacha_300479_［ドキワク%20!%20ユズレシピ］喜多見柚_[SSR]_03_title.png)<br>
+[gacha_300481_［ビターバレンタイン］衛藤美紗希_[SR]_02_title.png](Gacha/title/Passion/gacha_300481_［ビターバレンタイン］衛藤美紗希_[SR]_02_title.png)<br>
+[gacha_300483_［always］村上巴_[SR]_02_title.png](Gacha/title/Passion/gacha_300483_［always］村上巴_[SR]_02_title.png)<br>
