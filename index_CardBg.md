@@ -1339,3 +1339,9 @@
 [bg_300482_［ビターバレンタイン］衛藤美紗希＋_[SR+].png](CardBg/Passion/bg_300482_［ビターバレンタイン］衛藤美紗希＋_[SR+].png)<br>
 [bg_300483_［always］村上巴_[SR].png](CardBg/Passion/bg_300483_［always］村上巴_[SR].png)<br>
 [bg_300484_［always］村上巴＋_[SR+].png](CardBg/Passion/bg_300484_［always］村上巴＋_[SR+].png)<br>
+[bg_200495_［ニューウェーブ・ネイビー］大石泉_[SSR].png](CardBg/Cool/bg_200495_［ニューウェーブ・ネイビー］大石泉_[SSR].png)<br>
+[bg_200495_［ニューウェーブ・ネイビー］大石泉_[SSR]_01.png](CardBg/Cool/bg_200495_［ニューウェーブ・ネイビー］大石泉_[SSR]_01.png)<br>
+[bg_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+].png](CardBg/Cool/bg_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+].png)<br>
+[bg_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+]_01.png](CardBg/Cool/bg_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+]_01.png)<br>
+[bg_100493_［コール・ミー・メイビー］長富蓮実_[SR].png](CardBg/Cute/bg_100493_［コール・ミー・メイビー］長富蓮実_[SR].png)<br>
+[bg_100494_［コール・ミー・メイビー］長富蓮実＋_[SR+].png](CardBg/Cute/bg_100494_［コール・ミー・メイビー］長富蓮実＋_[SR+].png)<br>

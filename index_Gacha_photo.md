@@ -676,3 +676,5 @@
 [gacha_300479_［ドキワク ! ユズレシピ］喜多見柚_[SSR]_03_photo_l.png](Gacha/photo/Passion/gacha_300479_［ドキワク%20!%20ユズレシピ］喜多見柚_[SSR]_03_photo_l.png)<br>
 [gacha_300481_［ビターバレンタイン］衛藤美紗希_[SR]_02_photo.png](Gacha/photo/Passion/gacha_300481_［ビターバレンタイン］衛藤美紗希_[SR]_02_photo.png)<br>
 [gacha_300483_［always］村上巴_[SR]_02_photo.png](Gacha/photo/Passion/gacha_300483_［always］村上巴_[SR]_02_photo.png)<br>
+[gacha_200495_［ニューウェーブ・ネイビー］大石泉_[SSR]_03_photo_l.png](Gacha/photo/Cool/gacha_200495_［ニューウェーブ・ネイビー］大石泉_[SSR]_03_photo_l.png)<br>
+[gacha_100493_［コール・ミー・メイビー］長富蓮実_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100493_［コール・ミー・メイビー］長富蓮実_[SR]_02_photo.png)<br>

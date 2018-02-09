@@ -1385,3 +1385,7 @@
 [petit_300482_［ビターバレンタイン］衛藤美紗希＋_[SR+].png](Petit/Passion/petit_300482_［ビターバレンタイン］衛藤美紗希＋_[SR+].png)<br>
 [petit_300483_［always］村上巴_[SR].png](Petit/Passion/petit_300483_［always］村上巴_[SR].png)<br>
 [petit_300484_［always］村上巴＋_[SR+].png](Petit/Passion/petit_300484_［always］村上巴＋_[SR+].png)<br>
+[petit_200495_［ニューウェーブ・ネイビー］大石泉_[SSR].png](Petit/Cool/petit_200495_［ニューウェーブ・ネイビー］大石泉_[SSR].png)<br>
+[petit_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+].png](Petit/Cool/petit_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+].png)<br>
+[petit_100493_［コール・ミー・メイビー］長富蓮実_[SR].png](Petit/Cute/petit_100493_［コール・ミー・メイビー］長富蓮実_[SR].png)<br>
+[petit_100494_［コール・ミー・メイビー］長富蓮実＋_[SR+].png](Petit/Cute/petit_100494_［コール・ミー・メイビー］長富蓮実＋_[SR+].png)<br>
