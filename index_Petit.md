@@ -1389,3 +1389,7 @@
 [petit_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+].png](Petit/Cool/petit_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+].png)<br>
 [petit_100493_［コール・ミー・メイビー］長富蓮実_[SR].png](Petit/Cute/petit_100493_［コール・ミー・メイビー］長富蓮実_[SR].png)<br>
 [petit_100494_［コール・ミー・メイビー］長富蓮実＋_[SR+].png](Petit/Cute/petit_100494_［コール・ミー・メイビー］長富蓮実＋_[SR+].png)<br>
+[petit_200497_［明日へのフラッグ］結城晴_[SR].png](Petit/Cool/petit_200497_［明日へのフラッグ］結城晴_[SR].png)<br>
+[petit_200498_［明日へのフラッグ］結城晴＋_[SR+].png](Petit/Cool/petit_200498_［明日へのフラッグ］結城晴＋_[SR+].png)<br>
+[petit_300485_［スウィートハニーハート］的場梨沙_[SR].png](Petit/Passion/petit_300485_［スウィートハニーハート］的場梨沙_[SR].png)<br>
+[petit_300486_［スウィートハニーハート］的場梨沙＋_[SR+].png](Petit/Passion/petit_300486_［スウィートハニーハート］的場梨沙＋_[SR+].png)<br>
