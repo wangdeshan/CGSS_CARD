@@ -1393,3 +1393,4 @@
 [petit_200498_［明日へのフラッグ］結城晴＋_[SR+].png](Petit/Cool/petit_200498_［明日へのフラッグ］結城晴＋_[SR+].png)<br>
 [petit_300485_［スウィートハニーハート］的場梨沙_[SR].png](Petit/Passion/petit_300485_［スウィートハニーハート］的場梨沙_[SR].png)<br>
 [petit_300486_［スウィートハニーハート］的場梨沙＋_[SR+].png](Petit/Passion/petit_300486_［スウィートハニーハート］的場梨沙＋_[SR+].png)<br>
+[petit_200495_［ニューウェーブ・ネイビー］大石泉_[SSR][1].png](Petit/Cool/petit_200495_［ニューウェーブ・ネイビー］大石泉_[SSR][1].png)<br>

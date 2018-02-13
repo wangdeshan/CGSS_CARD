@@ -680,3 +680,4 @@
 [gacha_100493_［コール・ミー・メイビー］長富蓮実_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100493_［コール・ミー・メイビー］長富蓮実_[SR]_02_photo.png)<br>
 [gacha_200497_［明日へのフラッグ］結城晴_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200497_［明日へのフラッグ］結城晴_[SR]_02_photo.png)<br>
 [gacha_300485_［スウィートハニーハート］的場梨沙_[SR]_02_photo.png](Gacha/photo/Passion/gacha_300485_［スウィートハニーハート］的場梨沙_[SR]_02_photo.png)<br>
+[gacha_200489_［心躍るアドベンチャー］氏家むつみ_[SSR]_03_photo_l[1].png](Gacha/photo/Cool/gacha_200489_［心躍るアドベンチャー］氏家むつみ_[SSR]_03_photo_l[1].png)<br>
