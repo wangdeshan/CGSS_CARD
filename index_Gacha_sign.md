@@ -159,3 +159,4 @@
 [gacha_100491_［ビタースイート・タイム］小日向美穂_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100491_［ビタースイート・タイム］小日向美穂_[SSR]_03_sign.png)<br>
 [gacha_300479_［ドキワク ! ユズレシピ］喜多見柚_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300479_［ドキワク%20!%20ユズレシピ］喜多見柚_[SSR]_03_sign.png)<br>
 [gacha_200495_［ニューウェーブ・ネイビー］大石泉_[SSR]_03_sign.png](Gacha/sign/Cool/gacha_200495_［ニューウェーブ・ネイビー］大石泉_[SSR]_03_sign.png)<br>
+[gacha_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_03_sign.png)<br>
