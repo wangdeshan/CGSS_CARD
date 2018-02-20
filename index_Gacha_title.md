@@ -500,3 +500,5 @@
 [gacha_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_03_title.png](Gacha/title/Passion/gacha_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_03_title.png)<br>
 [gacha_200501_［Frost］神谷奈緒_[SR]_02_title.png](Gacha/title/Cool/gacha_200501_［Frost］神谷奈緒_[SR]_02_title.png)<br>
 [gacha_200503_［Frost］脇山珠美_[SR]_02_title.png](Gacha/title/Cool/gacha_200503_［Frost］脇山珠美_[SR]_02_title.png)<br>
+[gacha_100495_［すこやかな願い］栗原ネネ_[SSR]_03_title.png](Gacha/title/Cute/gacha_100495_［すこやかな願い］栗原ネネ_[SSR]_03_title.png)<br>
+[gacha_300489_［ドルフィンチアー］西島櫂_[SR]_02_title.png](Gacha/title/Passion/gacha_300489_［ドルフィンチアー］西島櫂_[SR]_02_title.png)<br>

@@ -1402,3 +1402,7 @@
 [petit_200502_［Frost］神谷奈緒＋_[SR+].png](Petit/Cool/petit_200502_［Frost］神谷奈緒＋_[SR+].png)<br>
 [petit_200503_［Frost］脇山珠美_[SR].png](Petit/Cool/petit_200503_［Frost］脇山珠美_[SR].png)<br>
 [petit_200504_［Frost］脇山珠美＋_[SR+].png](Petit/Cool/petit_200504_［Frost］脇山珠美＋_[SR+].png)<br>
+[petit_100495_［すこやかな願い］栗原ネネ_[SSR].png](Petit/Cute/petit_100495_［すこやかな願い］栗原ネネ_[SSR].png)<br>
+[petit_100496_［すこやかな願い］栗原ネネ＋_[SSR+].png](Petit/Cute/petit_100496_［すこやかな願い］栗原ネネ＋_[SSR+].png)<br>
+[petit_300489_［ドルフィンチアー］西島櫂_[SR].png](Petit/Passion/petit_300489_［ドルフィンチアー］西島櫂_[SR].png)<br>
+[petit_300490_［ドルフィンチアー］西島櫂＋_[SR+].png](Petit/Passion/petit_300490_［ドルフィンチアー］西島櫂＋_[SR+].png)<br>

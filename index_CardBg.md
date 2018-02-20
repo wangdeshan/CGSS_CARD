@@ -1365,3 +1365,9 @@
 [bg_200503_［Frost］脇山珠美_[SR]_01.png](CardBg/Cool/bg_200503_［Frost］脇山珠美_[SR]_01.png)<br>
 [bg_200504_［Frost］脇山珠美＋_[SR+].png](CardBg/Cool/bg_200504_［Frost］脇山珠美＋_[SR+].png)<br>
 [bg_200504_［Frost］脇山珠美＋_[SR+]_01.png](CardBg/Cool/bg_200504_［Frost］脇山珠美＋_[SR+]_01.png)<br>
+[bg_100495_［すこやかな願い］栗原ネネ_[SSR].png](CardBg/Cute/bg_100495_［すこやかな願い］栗原ネネ_[SSR].png)<br>
+[bg_100495_［すこやかな願い］栗原ネネ_[SSR]_01.png](CardBg/Cute/bg_100495_［すこやかな願い］栗原ネネ_[SSR]_01.png)<br>
+[bg_100496_［すこやかな願い］栗原ネネ＋_[SSR+].png](CardBg/Cute/bg_100496_［すこやかな願い］栗原ネネ＋_[SSR+].png)<br>
+[bg_100496_［すこやかな願い］栗原ネネ＋_[SSR+]_01.png](CardBg/Cute/bg_100496_［すこやかな願い］栗原ネネ＋_[SSR+]_01.png)<br>
+[bg_300489_［ドルフィンチアー］西島櫂_[SR].png](CardBg/Passion/bg_300489_［ドルフィンチアー］西島櫂_[SR].png)<br>
+[bg_300490_［ドルフィンチアー］西島櫂＋_[SR+].png](CardBg/Passion/bg_300490_［ドルフィンチアー］西島櫂＋_[SR+].png)<br>
