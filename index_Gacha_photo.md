@@ -683,3 +683,5 @@
 [gacha_200489_［心躍るアドベンチャー］氏家むつみ_[SSR]_03_photo_l[1].png](Gacha/photo/Cool/gacha_200489_［心躍るアドベンチャー］氏家むつみ_[SSR]_03_photo_l[1].png)<br>
 [gacha_200499_［招福萬来］相川千夏_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200499_［招福萬来］相川千夏_[SR]_02_photo.png)<br>
 [gacha_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_03_photo_l.png](Gacha/photo/Passion/gacha_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_03_photo_l.png)<br>
+[gacha_200501_［Frost］神谷奈緒_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200501_［Frost］神谷奈緒_[SR]_02_photo.png)<br>
+[gacha_200503_［Frost］脇山珠美_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200503_［Frost］脇山珠美_[SR]_02_photo.png)<br>

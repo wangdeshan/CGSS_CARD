@@ -1357,3 +1357,11 @@
 [bg_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_01.png](CardBg/Passion/bg_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_01.png)<br>
 [bg_300488_［センター・オブ・ストリート］城ヶ崎美嘉＋_[SSR+].png](CardBg/Passion/bg_300488_［センター・オブ・ストリート］城ヶ崎美嘉＋_[SSR+].png)<br>
 [bg_300488_［センター・オブ・ストリート］城ヶ崎美嘉＋_[SSR+]_01.png](CardBg/Passion/bg_300488_［センター・オブ・ストリート］城ヶ崎美嘉＋_[SSR+]_01.png)<br>
+[bg_200501_［Frost］神谷奈緒_[SR].png](CardBg/Cool/bg_200501_［Frost］神谷奈緒_[SR].png)<br>
+[bg_200501_［Frost］神谷奈緒_[SR]_01.png](CardBg/Cool/bg_200501_［Frost］神谷奈緒_[SR]_01.png)<br>
+[bg_200502_［Frost］神谷奈緒＋_[SR+].png](CardBg/Cool/bg_200502_［Frost］神谷奈緒＋_[SR+].png)<br>
+[bg_200502_［Frost］神谷奈緒＋_[SR+]_01.png](CardBg/Cool/bg_200502_［Frost］神谷奈緒＋_[SR+]_01.png)<br>
+[bg_200503_［Frost］脇山珠美_[SR].png](CardBg/Cool/bg_200503_［Frost］脇山珠美_[SR].png)<br>
+[bg_200503_［Frost］脇山珠美_[SR]_01.png](CardBg/Cool/bg_200503_［Frost］脇山珠美_[SR]_01.png)<br>
+[bg_200504_［Frost］脇山珠美＋_[SR+].png](CardBg/Cool/bg_200504_［Frost］脇山珠美＋_[SR+].png)<br>
+[bg_200504_［Frost］脇山珠美＋_[SR+]_01.png](CardBg/Cool/bg_200504_［Frost］脇山珠美＋_[SR+]_01.png)<br>
