@@ -1406,3 +1406,4 @@
 [petit_100496_［すこやかな願い］栗原ネネ＋_[SSR+].png](Petit/Cute/petit_100496_［すこやかな願い］栗原ネネ＋_[SSR+].png)<br>
 [petit_300489_［ドルフィンチアー］西島櫂_[SR].png](Petit/Passion/petit_300489_［ドルフィンチアー］西島櫂_[SR].png)<br>
 [petit_300490_［ドルフィンチアー］西島櫂＋_[SR+].png](Petit/Passion/petit_300490_［ドルフィンチアー］西島櫂＋_[SR+].png)<br>
+[petit_300489_［ドルフィンチアー］西島櫂_[SR][1].png](Petit/Passion/petit_300489_［ドルフィンチアー］西島櫂_[SR][1].png)<br>
