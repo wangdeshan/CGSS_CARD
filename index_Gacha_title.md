@@ -502,3 +502,6 @@
 [gacha_200503_［Frost］脇山珠美_[SR]_02_title.png](Gacha/title/Cool/gacha_200503_［Frost］脇山珠美_[SR]_02_title.png)<br>
 [gacha_100495_［すこやかな願い］栗原ネネ_[SSR]_03_title.png](Gacha/title/Cute/gacha_100495_［すこやかな願い］栗原ネネ_[SSR]_03_title.png)<br>
 [gacha_300489_［ドルフィンチアー］西島櫂_[SR]_02_title.png](Gacha/title/Passion/gacha_300489_［ドルフィンチアー］西島櫂_[SR]_02_title.png)<br>
+[gacha_200505_［ツインテールの風］速水奏_[SR]_02_title.png](Gacha/title/Cool/gacha_200505_［ツインテールの風］速水奏_[SR]_02_title.png)<br>
+[gacha_100497_［ツインテールの風］小日向美穂_[SR]_02_title.png](Gacha/title/Cute/gacha_100497_［ツインテールの風］小日向美穂_[SR]_02_title.png)<br>
+[gacha_100499_［アイロニカル・エトランゼ］一ノ瀬志希_[SSR]_03_title.png](Gacha/title/Cute/gacha_100499_［アイロニカル・エトランゼ］一ノ瀬志希_[SSR]_03_title.png)<br>

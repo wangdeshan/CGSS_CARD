@@ -1407,3 +1407,10 @@
 [petit_300489_［ドルフィンチアー］西島櫂_[SR].png](Petit/Passion/petit_300489_［ドルフィンチアー］西島櫂_[SR].png)<br>
 [petit_300490_［ドルフィンチアー］西島櫂＋_[SR+].png](Petit/Passion/petit_300490_［ドルフィンチアー］西島櫂＋_[SR+].png)<br>
 [petit_300489_［ドルフィンチアー］西島櫂_[SR][1].png](Petit/Passion/petit_300489_［ドルフィンチアー］西島櫂_[SR][1].png)<br>
+[petit_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+][1].png](Petit/Cool/petit_200496_［ニューウェーブ・ネイビー］大石泉＋_[SSR+][1].png)<br>
+[petit_200505_［ツインテールの風］速水奏_[SR].png](Petit/Cool/petit_200505_［ツインテールの風］速水奏_[SR].png)<br>
+[petit_200506_［ツインテールの風］速水奏＋_[SR+].png](Petit/Cool/petit_200506_［ツインテールの風］速水奏＋_[SR+].png)<br>
+[petit_100497_［ツインテールの風］小日向美穂_[SR].png](Petit/Cute/petit_100497_［ツインテールの風］小日向美穂_[SR].png)<br>
+[petit_100498_［ツインテールの風］小日向美穂＋_[SR+].png](Petit/Cute/petit_100498_［ツインテールの風］小日向美穂＋_[SR+].png)<br>
+[petit_100499_［アイロニカル・エトランゼ］一ノ瀬志希_[SSR].png](Petit/Cute/petit_100499_［アイロニカル・エトランゼ］一ノ瀬志希_[SSR].png)<br>
+[petit_100500_［アイロニカル・エトランゼ］一ノ瀬志希＋_[SSR+].png](Petit/Cute/petit_100500_［アイロニカル・エトランゼ］一ノ瀬志希＋_[SSR+].png)<br>
