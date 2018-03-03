@@ -1414,3 +1414,11 @@
 [petit_100498_［ツインテールの風］小日向美穂＋_[SR+].png](Petit/Cute/petit_100498_［ツインテールの風］小日向美穂＋_[SR+].png)<br>
 [petit_100499_［アイロニカル・エトランゼ］一ノ瀬志希_[SSR].png](Petit/Cute/petit_100499_［アイロニカル・エトランゼ］一ノ瀬志希_[SSR].png)<br>
 [petit_100500_［アイロニカル・エトランゼ］一ノ瀬志希＋_[SSR+].png](Petit/Cute/petit_100500_［アイロニカル・エトランゼ］一ノ瀬志希＋_[SSR+].png)<br>
+[petit_200507_［おしゃまなコアクマ］佐々木千枝_[SSR].png](Petit/Cool/petit_200507_［おしゃまなコアクマ］佐々木千枝_[SSR].png)<br>
+[petit_200508_［おしゃまなコアクマ］佐々木千枝＋_[SSR+].png](Petit/Cool/petit_200508_［おしゃまなコアクマ］佐々木千枝＋_[SSR+].png)<br>
+[petit_200509_［爛漫ひな娘］岡崎泰葉_[SR].png](Petit/Cool/petit_200509_［爛漫ひな娘］岡崎泰葉_[SR].png)<br>
+[petit_200510_［爛漫ひな娘］岡崎泰葉＋_[SR+].png](Petit/Cool/petit_200510_［爛漫ひな娘］岡崎泰葉＋_[SR+].png)<br>
+[petit_100501_［小さなおひな様］横山千佳_[SR].png](Petit/Cute/petit_100501_［小さなおひな様］横山千佳_[SR].png)<br>
+[petit_100502_［小さなおひな様］横山千佳＋_[SR+].png](Petit/Cute/petit_100502_［小さなおひな様］横山千佳＋_[SR+].png)<br>
+[petit_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR].png](Petit/Passion/petit_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR].png)<br>
+[petit_300492_［ポッピン・ハイ☆］赤城みりあ＋_[SSR+].png](Petit/Passion/petit_300492_［ポッピン・ハイ☆］赤城みりあ＋_[SSR+].png)<br>

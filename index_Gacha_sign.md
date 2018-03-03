@@ -162,3 +162,5 @@
 [gacha_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300487_［センター・オブ・ストリート］城ヶ崎美嘉_[SSR]_03_sign.png)<br>
 [gacha_100495_［すこやかな願い］栗原ネネ_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100495_［すこやかな願い］栗原ネネ_[SSR]_03_sign.png)<br>
 [gacha_100499_［アイロニカル・エトランゼ］一ノ瀬志希_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100499_［アイロニカル・エトランゼ］一ノ瀬志希_[SSR]_03_sign.png)<br>
+[gacha_200507_［おしゃまなコアクマ］佐々木千枝_[SSR]_03_sign.png](Gacha/sign/Cool/gacha_200507_［おしゃまなコアクマ］佐々木千枝_[SSR]_03_sign.png)<br>
+[gacha_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR]_03_sign.png)<br>
