@@ -1422,3 +1422,4 @@
 [petit_100502_［小さなおひな様］横山千佳＋_[SR+].png](Petit/Cute/petit_100502_［小さなおひな様］横山千佳＋_[SR+].png)<br>
 [petit_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR].png](Petit/Passion/petit_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR].png)<br>
 [petit_300492_［ポッピン・ハイ☆］赤城みりあ＋_[SSR+].png](Petit/Passion/petit_300492_［ポッピン・ハイ☆］赤城みりあ＋_[SSR+].png)<br>
+[petit_100501_［小さなおひな様］横山千佳_[SR][1].png](Petit/Cute/petit_100501_［小さなおひな様］横山千佳_[SR][1].png)<br>
