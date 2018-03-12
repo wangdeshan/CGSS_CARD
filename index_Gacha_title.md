@@ -509,3 +509,7 @@
 [gacha_200509_［爛漫ひな娘］岡崎泰葉_[SR]_02_title.png](Gacha/title/Cool/gacha_200509_［爛漫ひな娘］岡崎泰葉_[SR]_02_title.png)<br>
 [gacha_100501_［小さなおひな様］横山千佳_[SR]_02_title.png](Gacha/title/Cute/gacha_100501_［小さなおひな様］横山千佳_[SR]_02_title.png)<br>
 [gacha_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR]_03_title.png](Gacha/title/Passion/gacha_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR]_03_title.png)<br>
+[gacha_100505_［ニューウェーブ・ピーチ］村松さくら_[SSR]_03_title.png](Gacha/title/Cute/gacha_100505_［ニューウェーブ・ピーチ］村松さくら_[SSR]_03_title.png)<br>
+[gacha_100529_［なぞときツアーズ］安斎都_[SR]_02_title.png](Gacha/title/Cute/gacha_100529_［なぞときツアーズ］安斎都_[SR]_02_title.png)<br>
+[gacha_300493_［無限大の夢］南条光_[SR]_02_title.png](Gacha/title/Passion/gacha_300493_［無限大の夢］南条光_[SR]_02_title.png)<br>
+[gacha_300495_［トロピカルダンサー］小松伊吹_[SR]_02_title.png](Gacha/title/Passion/gacha_300495_［トロピカルダンサー］小松伊吹_[SR]_02_title.png)<br>

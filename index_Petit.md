@@ -1423,3 +1423,11 @@
 [petit_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR].png](Petit/Passion/petit_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR].png)<br>
 [petit_300492_［ポッピン・ハイ☆］赤城みりあ＋_[SSR+].png](Petit/Passion/petit_300492_［ポッピン・ハイ☆］赤城みりあ＋_[SSR+].png)<br>
 [petit_100501_［小さなおひな様］横山千佳_[SR][1].png](Petit/Cute/petit_100501_［小さなおひな様］横山千佳_[SR][1].png)<br>
+[petit_100505_［ニューウェーブ・ピーチ］村松さくら_[SSR].png](Petit/Cute/petit_100505_［ニューウェーブ・ピーチ］村松さくら_[SSR].png)<br>
+[petit_100506_［ニューウェーブ・ピーチ］村松さくら＋_[SSR+].png](Petit/Cute/petit_100506_［ニューウェーブ・ピーチ］村松さくら＋_[SSR+].png)<br>
+[petit_100529_［なぞときツアーズ］安斎都_[SR].png](Petit/Cute/petit_100529_［なぞときツアーズ］安斎都_[SR].png)<br>
+[petit_100530_［なぞときツアーズ］安斎都＋_[SR+].png](Petit/Cute/petit_100530_［なぞときツアーズ］安斎都＋_[SR+].png)<br>
+[petit_300493_［無限大の夢］南条光_[SR].png](Petit/Passion/petit_300493_［無限大の夢］南条光_[SR].png)<br>
+[petit_300494_［無限大の夢］南条光＋_[SR+].png](Petit/Passion/petit_300494_［無限大の夢］南条光＋_[SR+].png)<br>
+[petit_300495_［トロピカルダンサー］小松伊吹_[SR].png](Petit/Passion/petit_300495_［トロピカルダンサー］小松伊吹_[SR].png)<br>
+[petit_300496_［トロピカルダンサー］小松伊吹＋_[SR+].png](Petit/Passion/petit_300496_［トロピカルダンサー］小松伊吹＋_[SR+].png)<br>
