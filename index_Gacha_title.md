@@ -515,3 +515,5 @@
 [gacha_300495_［トロピカルダンサー］小松伊吹_[SR]_02_title.png](Gacha/title/Passion/gacha_300495_［トロピカルダンサー］小松伊吹_[SR]_02_title.png)<br>
 [gacha_200511_［フォーチュンチアー］藤居朋_[SR]_02_title.png](Gacha/title/Cool/gacha_200511_［フォーチュンチアー］藤居朋_[SR]_02_title.png)<br>
 [gacha_300497_［バーン・アンド・ドーン ! ! ］小関麗奈_[SSR]_03_title.png](Gacha/title/Passion/gacha_300497_［バーン・アンド・ドーン%20!%20!%20］小関麗奈_[SSR]_03_title.png)<br>
+[gacha_100509_［キラッ ! 満開スマイル］島村卯月_[SR]_02_title.png](Gacha/title/Cute/gacha_100509_［キラッ%20!%20満開スマイル］島村卯月_[SR]_02_title.png)<br>
+[gacha_100511_［キラッ ! 満開スマイル］櫻井桃華_[SR]_02_title.png](Gacha/title/Cute/gacha_100511_［キラッ%20!%20満開スマイル］櫻井桃華_[SR]_02_title.png)<br>
