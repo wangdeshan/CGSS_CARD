@@ -513,3 +513,5 @@
 [gacha_100529_［なぞときツアーズ］安斎都_[SR]_02_title.png](Gacha/title/Cute/gacha_100529_［なぞときツアーズ］安斎都_[SR]_02_title.png)<br>
 [gacha_300493_［無限大の夢］南条光_[SR]_02_title.png](Gacha/title/Passion/gacha_300493_［無限大の夢］南条光_[SR]_02_title.png)<br>
 [gacha_300495_［トロピカルダンサー］小松伊吹_[SR]_02_title.png](Gacha/title/Passion/gacha_300495_［トロピカルダンサー］小松伊吹_[SR]_02_title.png)<br>
+[gacha_200511_［フォーチュンチアー］藤居朋_[SR]_02_title.png](Gacha/title/Cool/gacha_200511_［フォーチュンチアー］藤居朋_[SR]_02_title.png)<br>
+[gacha_300497_［バーン・アンド・ドーン ! ! ］小関麗奈_[SSR]_03_title.png](Gacha/title/Passion/gacha_300497_［バーン・アンド・ドーン%20!%20!%20］小関麗奈_[SSR]_03_title.png)<br>

@@ -165,3 +165,4 @@
 [gacha_200507_［おしゃまなコアクマ］佐々木千枝_[SSR]_03_sign.png](Gacha/sign/Cool/gacha_200507_［おしゃまなコアクマ］佐々木千枝_[SSR]_03_sign.png)<br>
 [gacha_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300491_［ポッピン・ハイ☆］赤城みりあ_[SSR]_03_sign.png)<br>
 [gacha_100505_［ニューウェーブ・ピーチ］村松さくら_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100505_［ニューウェーブ・ピーチ］村松さくら_[SSR]_03_sign.png)<br>
+[gacha_300497_［バーン・アンド・ドーン ! ! ］小関麗奈_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300497_［バーン・アンド・ドーン%20!%20!%20］小関麗奈_[SSR]_03_sign.png)<br>

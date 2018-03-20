@@ -1431,3 +1431,7 @@
 [petit_300494_［無限大の夢］南条光＋_[SR+].png](Petit/Passion/petit_300494_［無限大の夢］南条光＋_[SR+].png)<br>
 [petit_300495_［トロピカルダンサー］小松伊吹_[SR].png](Petit/Passion/petit_300495_［トロピカルダンサー］小松伊吹_[SR].png)<br>
 [petit_300496_［トロピカルダンサー］小松伊吹＋_[SR+].png](Petit/Passion/petit_300496_［トロピカルダンサー］小松伊吹＋_[SR+].png)<br>
+[petit_200511_［フォーチュンチアー］藤居朋_[SR].png](Petit/Cool/petit_200511_［フォーチュンチアー］藤居朋_[SR].png)<br>
+[petit_200512_［フォーチュンチアー］藤居朋＋_[SR+].png](Petit/Cool/petit_200512_［フォーチュンチアー］藤居朋＋_[SR+].png)<br>
+[petit_300497_［バーン・アンド・ドーン ! ! ］小関麗奈_[SSR].png](Petit/Passion/petit_300497_［バーン・アンド・ドーン%20!%20!%20］小関麗奈_[SSR].png)<br>
+[petit_300498_［バーン・アンド・ドーン ! ! ］小関麗奈＋_[SSR+].png](Petit/Passion/petit_300498_［バーン・アンド・ドーン%20!%20!%20］小関麗奈＋_[SSR+].png)<br>
