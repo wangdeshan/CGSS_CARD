@@ -517,3 +517,5 @@
 [gacha_300497_［バーン・アンド・ドーン ! ! ］小関麗奈_[SSR]_03_title.png](Gacha/title/Passion/gacha_300497_［バーン・アンド・ドーン%20!%20!%20］小関麗奈_[SSR]_03_title.png)<br>
 [gacha_100509_［キラッ ! 満開スマイル］島村卯月_[SR]_02_title.png](Gacha/title/Cute/gacha_100509_［キラッ%20!%20満開スマイル］島村卯月_[SR]_02_title.png)<br>
 [gacha_100511_［キラッ ! 満開スマイル］櫻井桃華_[SR]_02_title.png](Gacha/title/Cute/gacha_100511_［キラッ%20!%20満開スマイル］櫻井桃華_[SR]_02_title.png)<br>
+[gacha_200513_［ブレイク・ワン・モーメント］水木聖來_[SSR]_03_title.png](Gacha/title/Cool/gacha_200513_［ブレイク・ワン・モーメント］水木聖來_[SSR]_03_title.png)<br>
+[gacha_100513_［桜ガール］月宮雅_[SR]_02_title.png](Gacha/title/Cute/gacha_100513_［桜ガール］月宮雅_[SR]_02_title.png)<br>
