@@ -167,3 +167,5 @@
 [gacha_100505_［ニューウェーブ・ピーチ］村松さくら_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100505_［ニューウェーブ・ピーチ］村松さくら_[SSR]_03_sign.png)<br>
 [gacha_300497_［バーン・アンド・ドーン ! ! ］小関麗奈_[SSR]_03_sign.png](Gacha/sign/Passion/gacha_300497_［バーン・アンド・ドーン%20!%20!%20］小関麗奈_[SSR]_03_sign.png)<br>
 [gacha_200513_［ブレイク・ワン・モーメント］水木聖來_[SSR]_03_sign.png](Gacha/sign/Cool/gacha_200513_［ブレイク・ワン・モーメント］水木聖來_[SSR]_03_sign.png)<br>
+[gacha_200515_［放課後ロックスター］多田李衣菜_[SSR]_03_sign.png](Gacha/sign/Cool/gacha_200515_［放課後ロックスター］多田李衣菜_[SSR]_03_sign.png)<br>
+[gacha_100515_［青春デビュー］関裕美_[SSR]_03_sign.png](Gacha/sign/Cute/gacha_100515_［青春デビュー］関裕美_[SSR]_03_sign.png)<br>

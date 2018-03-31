@@ -1443,3 +1443,11 @@
 [petit_200514_［ブレイク・ワン・モーメント］水木聖來＋_[SSR+].png](Petit/Cool/petit_200514_［ブレイク・ワン・モーメント］水木聖來＋_[SSR+].png)<br>
 [petit_100513_［桜ガール］月宮雅_[SR].png](Petit/Cute/petit_100513_［桜ガール］月宮雅_[SR].png)<br>
 [petit_100514_［桜ガール］月宮雅＋_[SR+].png](Petit/Cute/petit_100514_［桜ガール］月宮雅＋_[SR+].png)<br>
+[petit_200515_［放課後ロックスター］多田李衣菜_[SSR].png](Petit/Cool/petit_200515_［放課後ロックスター］多田李衣菜_[SSR].png)<br>
+[petit_200516_［放課後ロックスター］多田李衣菜＋_[SSR+].png](Petit/Cool/petit_200516_［放課後ロックスター］多田李衣菜＋_[SSR+].png)<br>
+[petit_100515_［青春デビュー］関裕美_[SSR].png](Petit/Cute/petit_100515_［青春デビュー］関裕美_[SSR].png)<br>
+[petit_100516_［青春デビュー］関裕美＋_[SSR+].png](Petit/Cute/petit_100516_［青春デビュー］関裕美＋_[SSR+].png)<br>
+[petit_100517_［お嬢様の一幕］涼宮星花_[SR].png](Petit/Cute/petit_100517_［お嬢様の一幕］涼宮星花_[SR].png)<br>
+[petit_100518_［お嬢様の一幕］涼宮星花＋_[SR+].png](Petit/Cute/petit_100518_［お嬢様の一幕］涼宮星花＋_[SR+].png)<br>
+[petit_300499_［放課後トライ］日野茜_[SR].png](Petit/Passion/petit_300499_［放課後トライ］日野茜_[SR].png)<br>
+[petit_300500_［放課後トライ］日野茜＋_[SR+].png](Petit/Passion/petit_300500_［放課後トライ］日野茜＋_[SR+].png)<br>

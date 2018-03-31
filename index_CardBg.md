@@ -1425,3 +1425,15 @@
 [bg_200514_［ブレイク・ワン・モーメント］水木聖來＋_[SSR+]_01.png](CardBg/Cool/bg_200514_［ブレイク・ワン・モーメント］水木聖來＋_[SSR+]_01.png)<br>
 [bg_100513_［桜ガール］月宮雅_[SR].png](CardBg/Cute/bg_100513_［桜ガール］月宮雅_[SR].png)<br>
 [bg_100514_［桜ガール］月宮雅＋_[SR+].png](CardBg/Cute/bg_100514_［桜ガール］月宮雅＋_[SR+].png)<br>
+[bg_200515_［放課後ロックスター］多田李衣菜_[SSR].png](CardBg/Cool/bg_200515_［放課後ロックスター］多田李衣菜_[SSR].png)<br>
+[bg_200515_［放課後ロックスター］多田李衣菜_[SSR]_01.png](CardBg/Cool/bg_200515_［放課後ロックスター］多田李衣菜_[SSR]_01.png)<br>
+[bg_200516_［放課後ロックスター］多田李衣菜＋_[SSR+].png](CardBg/Cool/bg_200516_［放課後ロックスター］多田李衣菜＋_[SSR+].png)<br>
+[bg_200516_［放課後ロックスター］多田李衣菜＋_[SSR+]_01.png](CardBg/Cool/bg_200516_［放課後ロックスター］多田李衣菜＋_[SSR+]_01.png)<br>
+[bg_100515_［青春デビュー］関裕美_[SSR].png](CardBg/Cute/bg_100515_［青春デビュー］関裕美_[SSR].png)<br>
+[bg_100515_［青春デビュー］関裕美_[SSR]_01.png](CardBg/Cute/bg_100515_［青春デビュー］関裕美_[SSR]_01.png)<br>
+[bg_100516_［青春デビュー］関裕美＋_[SSR+].png](CardBg/Cute/bg_100516_［青春デビュー］関裕美＋_[SSR+].png)<br>
+[bg_100516_［青春デビュー］関裕美＋_[SSR+]_01.png](CardBg/Cute/bg_100516_［青春デビュー］関裕美＋_[SSR+]_01.png)<br>
+[bg_100517_［お嬢様の一幕］涼宮星花_[SR].png](CardBg/Cute/bg_100517_［お嬢様の一幕］涼宮星花_[SR].png)<br>
+[bg_100518_［お嬢様の一幕］涼宮星花＋_[SR+].png](CardBg/Cute/bg_100518_［お嬢様の一幕］涼宮星花＋_[SR+].png)<br>
+[bg_300499_［放課後トライ］日野茜_[SR].png](CardBg/Passion/bg_300499_［放課後トライ］日野茜_[SR].png)<br>
+[bg_300500_［放課後トライ］日野茜＋_[SR+].png](CardBg/Passion/bg_300500_［放課後トライ］日野茜＋_[SR+].png)<br>

@@ -704,3 +704,7 @@
 [gacha_100511_［キラッ ! 満開スマイル］櫻井桃華_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100511_［キラッ%20!%20満開スマイル］櫻井桃華_[SR]_02_photo.png)<br>
 [gacha_200513_［ブレイク・ワン・モーメント］水木聖來_[SSR]_03_photo_l.png](Gacha/photo/Cool/gacha_200513_［ブレイク・ワン・モーメント］水木聖來_[SSR]_03_photo_l.png)<br>
 [gacha_100513_［桜ガール］月宮雅_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100513_［桜ガール］月宮雅_[SR]_02_photo.png)<br>
+[gacha_200515_［放課後ロックスター］多田李衣菜_[SSR]_03_photo_l.png](Gacha/photo/Cool/gacha_200515_［放課後ロックスター］多田李衣菜_[SSR]_03_photo_l.png)<br>
+[gacha_100515_［青春デビュー］関裕美_[SSR]_03_photo_l.png](Gacha/photo/Cute/gacha_100515_［青春デビュー］関裕美_[SSR]_03_photo_l.png)<br>
+[gacha_100517_［お嬢様の一幕］涼宮星花_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100517_［お嬢様の一幕］涼宮星花_[SR]_02_photo.png)<br>
+[gacha_300499_［放課後トライ］日野茜_[SR]_02_photo.png](Gacha/photo/Passion/gacha_300499_［放課後トライ］日野茜_[SR]_02_photo.png)<br>
