@@ -1437,3 +1437,11 @@
 [bg_100518_［お嬢様の一幕］涼宮星花＋_[SR+].png](CardBg/Cute/bg_100518_［お嬢様の一幕］涼宮星花＋_[SR+].png)<br>
 [bg_300499_［放課後トライ］日野茜_[SR].png](CardBg/Passion/bg_300499_［放課後トライ］日野茜_[SR].png)<br>
 [bg_300500_［放課後トライ］日野茜＋_[SR+].png](CardBg/Passion/bg_300500_［放課後トライ］日野茜＋_[SR+].png)<br>
+[bg_200517_［Vast world］白坂小梅_[SR].png](CardBg/Cool/bg_200517_［Vast%20world］白坂小梅_[SR].png)<br>
+[bg_200517_［Vast world］白坂小梅_[SR]_01.png](CardBg/Cool/bg_200517_［Vast%20world］白坂小梅_[SR]_01.png)<br>
+[bg_200518_［Vast world］白坂小梅＋_[SR+].png](CardBg/Cool/bg_200518_［Vast%20world］白坂小梅＋_[SR+].png)<br>
+[bg_200518_［Vast world］白坂小梅＋_[SR+]_01.png](CardBg/Cool/bg_200518_［Vast%20world］白坂小梅＋_[SR+]_01.png)<br>
+[bg_100519_［Vast world］緒方智絵里_[SR].png](CardBg/Cute/bg_100519_［Vast%20world］緒方智絵里_[SR].png)<br>
+[bg_100519_［Vast world］緒方智絵里_[SR]_01.png](CardBg/Cute/bg_100519_［Vast%20world］緒方智絵里_[SR]_01.png)<br>
+[bg_100520_［Vast world］緒方智絵里＋_[SR+].png](CardBg/Cute/bg_100520_［Vast%20world］緒方智絵里＋_[SR+].png)<br>
+[bg_100520_［Vast world］緒方智絵里＋_[SR+]_01.png](CardBg/Cute/bg_100520_［Vast%20world］緒方智絵里＋_[SR+]_01.png)<br>

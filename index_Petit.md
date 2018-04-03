@@ -1451,3 +1451,7 @@
 [petit_100518_［お嬢様の一幕］涼宮星花＋_[SR+].png](Petit/Cute/petit_100518_［お嬢様の一幕］涼宮星花＋_[SR+].png)<br>
 [petit_300499_［放課後トライ］日野茜_[SR].png](Petit/Passion/petit_300499_［放課後トライ］日野茜_[SR].png)<br>
 [petit_300500_［放課後トライ］日野茜＋_[SR+].png](Petit/Passion/petit_300500_［放課後トライ］日野茜＋_[SR+].png)<br>
+[petit_200517_［Vast world］白坂小梅_[SR].png](Petit/Cool/petit_200517_［Vast%20world］白坂小梅_[SR].png)<br>
+[petit_200518_［Vast world］白坂小梅＋_[SR+].png](Petit/Cool/petit_200518_［Vast%20world］白坂小梅＋_[SR+].png)<br>
+[petit_100519_［Vast world］緒方智絵里_[SR].png](Petit/Cute/petit_100519_［Vast%20world］緒方智絵里_[SR].png)<br>
+[petit_100520_［Vast world］緒方智絵里＋_[SR+].png](Petit/Cute/petit_100520_［Vast%20world］緒方智絵里＋_[SR+].png)<br>

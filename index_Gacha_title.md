@@ -523,3 +523,5 @@
 [gacha_100515_［青春デビュー］関裕美_[SSR]_03_title.png](Gacha/title/Cute/gacha_100515_［青春デビュー］関裕美_[SSR]_03_title.png)<br>
 [gacha_100517_［お嬢様の一幕］涼宮星花_[SR]_02_title.png](Gacha/title/Cute/gacha_100517_［お嬢様の一幕］涼宮星花_[SR]_02_title.png)<br>
 [gacha_300499_［放課後トライ］日野茜_[SR]_02_title.png](Gacha/title/Passion/gacha_300499_［放課後トライ］日野茜_[SR]_02_title.png)<br>
+[gacha_200517_［Vast world］白坂小梅_[SR]_02_title.png](Gacha/title/Cool/gacha_200517_［Vast%20world］白坂小梅_[SR]_02_title.png)<br>
+[gacha_100519_［Vast world］緒方智絵里_[SR]_02_title.png](Gacha/title/Cute/gacha_100519_［Vast%20world］緒方智絵里_[SR]_02_title.png)<br>
