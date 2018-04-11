@@ -1455,3 +1455,7 @@
 [petit_200518_［Vast world］白坂小梅＋_[SR+].png](Petit/Cool/petit_200518_［Vast%20world］白坂小梅＋_[SR+].png)<br>
 [petit_100519_［Vast world］緒方智絵里_[SR].png](Petit/Cute/petit_100519_［Vast%20world］緒方智絵里_[SR].png)<br>
 [petit_100520_［Vast world］緒方智絵里＋_[SR+].png](Petit/Cute/petit_100520_［Vast%20world］緒方智絵里＋_[SR+].png)<br>
+[petit_200519_［ハイ・リベレーション］八神マキノ_[SR].png](Petit/Cool/petit_200519_［ハイ・リベレーション］八神マキノ_[SR].png)<br>
+[petit_200520_［ハイ・リベレーション］八神マキノ＋_[SR+].png](Petit/Cool/petit_200520_［ハイ・リベレーション］八神マキノ＋_[SR+].png)<br>
+[petit_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR].png](Petit/Passion/petit_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR].png)<br>
+[petit_300502_［ニューウェーブ・サルファー］土屋亜子＋_[SSR+].png](Petit/Passion/petit_300502_［ニューウェーブ・サルファー］土屋亜子＋_[SSR+].png)<br>

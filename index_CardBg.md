@@ -1445,3 +1445,9 @@
 [bg_100519_［Vast world］緒方智絵里_[SR]_01.png](CardBg/Cute/bg_100519_［Vast%20world］緒方智絵里_[SR]_01.png)<br>
 [bg_100520_［Vast world］緒方智絵里＋_[SR+].png](CardBg/Cute/bg_100520_［Vast%20world］緒方智絵里＋_[SR+].png)<br>
 [bg_100520_［Vast world］緒方智絵里＋_[SR+]_01.png](CardBg/Cute/bg_100520_［Vast%20world］緒方智絵里＋_[SR+]_01.png)<br>
+[bg_200519_［ハイ・リベレーション］八神マキノ_[SR].png](CardBg/Cool/bg_200519_［ハイ・リベレーション］八神マキノ_[SR].png)<br>
+[bg_200520_［ハイ・リベレーション］八神マキノ＋_[SR+].png](CardBg/Cool/bg_200520_［ハイ・リベレーション］八神マキノ＋_[SR+].png)<br>
+[bg_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR].png](CardBg/Passion/bg_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR].png)<br>
+[bg_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR]_01.png](CardBg/Passion/bg_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR]_01.png)<br>
+[bg_300502_［ニューウェーブ・サルファー］土屋亜子＋_[SSR+].png](CardBg/Passion/bg_300502_［ニューウェーブ・サルファー］土屋亜子＋_[SSR+].png)<br>
+[bg_300502_［ニューウェーブ・サルファー］土屋亜子＋_[SSR+]_01.png](CardBg/Passion/bg_300502_［ニューウェーブ・サルファー］土屋亜子＋_[SSR+]_01.png)<br>

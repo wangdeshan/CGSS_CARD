@@ -710,3 +710,5 @@
 [gacha_300499_［放課後トライ］日野茜_[SR]_02_photo.png](Gacha/photo/Passion/gacha_300499_［放課後トライ］日野茜_[SR]_02_photo.png)<br>
 [gacha_200517_［Vast world］白坂小梅_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200517_［Vast%20world］白坂小梅_[SR]_02_photo.png)<br>
 [gacha_100519_［Vast world］緒方智絵里_[SR]_02_photo.png](Gacha/photo/Cute/gacha_100519_［Vast%20world］緒方智絵里_[SR]_02_photo.png)<br>
+[gacha_200519_［ハイ・リベレーション］八神マキノ_[SR]_02_photo.png](Gacha/photo/Cool/gacha_200519_［ハイ・リベレーション］八神マキノ_[SR]_02_photo.png)<br>
+[gacha_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR]_03_photo_l.png](Gacha/photo/Passion/gacha_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR]_03_photo_l.png)<br>
