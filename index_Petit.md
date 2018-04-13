@@ -1459,3 +1459,7 @@
 [petit_200520_［ハイ・リベレーション］八神マキノ＋_[SR+].png](Petit/Cool/petit_200520_［ハイ・リベレーション］八神マキノ＋_[SR+].png)<br>
 [petit_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR].png](Petit/Passion/petit_300501_［ニューウェーブ・サルファー］土屋亜子_[SSR].png)<br>
 [petit_300502_［ニューウェーブ・サルファー］土屋亜子＋_[SSR+].png](Petit/Passion/petit_300502_［ニューウェーブ・サルファー］土屋亜子＋_[SSR+].png)<br>
+[petit_200521_［光彩の華］水野翠_[SR].png](Petit/Cool/petit_200521_［光彩の華］水野翠_[SR].png)<br>
+[petit_200522_［光彩の華］水野翠＋_[SR+].png](Petit/Cool/petit_200522_［光彩の華］水野翠＋_[SR+].png)<br>
+[petit_100521_［ぷるんぷるんB.B］大沼くるみ_[SR].png](Petit/Cute/petit_100521_［ぷるんぷるんB.B］大沼くるみ_[SR].png)<br>
+[petit_100522_［ぷるんぷるんB.B］大沼くるみ＋_[SR+].png](Petit/Cute/petit_100522_［ぷるんぷるんB.B］大沼くるみ＋_[SR+].png)<br>
